@@ -7,24 +7,17 @@
 html {
     overflow-y: scroll;
     scroll-behavior: smooth;
-    scroll-snap-type: y mandatory;
-    scroll-snap-align: center;
+   
   }
 body
 {
 	font-family: 'Kaushan Script', cursive;
 }
 
-section{
-    
-}
 
 
-#particles-js{
-    position: absolute;
-    background-color: #000;
-    
-}
+
+
 	
 #nav-bar
 	{
